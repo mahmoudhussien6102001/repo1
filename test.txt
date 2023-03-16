@@ -1,1 +1,2 @@
 department CS
+department IS 
